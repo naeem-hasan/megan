@@ -11,7 +11,7 @@ YouTube Downloader GUI with Python and PyQt
 ![downloading on linux](https://raw.githubusercontent.com/naeem-hasan/megan/master/screenshots/ldownload2.png)
 ![downloading on windows](https://raw.githubusercontent.com/naeem-hasan/megan/master/screenshots/wdownload.png)
 
-###Known problems:
+### Known problems:
 * Apparently I forgot to bind an event to the cancel button while downloading. So yeah, you can't cancel a download when it is downloading. :p I'll fix it asap.
 
 Feel free to contribute!
